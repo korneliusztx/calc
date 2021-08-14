@@ -1,9 +1,9 @@
 print(
 "Oprasi Hitung Cornelius
-/n 1.Penjumlahan
-/n 2.Pengurangan
-/n 3.Pperklaian
-/n 4.Pembagian")
+1.Penjumlahan
+2.Pengurangan
+3.Pperklaian
+4.Pembagian")
 x = int(input("masukan 1: "))
 y = int(input("masukan 2: "))
 a = int(input("operasi hitung: "))
